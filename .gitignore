@@ -1,3 +1,4 @@
 # Ignore dataset archives and large data folders
 data/archive/
-data/archive.zip
+data/animal-faces
+data/*.zip
